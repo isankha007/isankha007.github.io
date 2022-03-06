@@ -1,18 +1,19 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Sankhadeep",
+		"label": "Software developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
+		"email": "sankhadeep2007@gmail.com",
+		"phone": "9933797103",
 		"website": "https://reactdude.com/",
 		"twitter": "https://twitter.com/prakis",
 		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
-	},
+		"github": "http://github.com/isankha007",
+		"summary": "I work as a software devloper, designing and developing mobile and web applications(<b>Java</b>,
+		<b>Objective C</b>, <b>C/C++</b>) & desktop (<b>C#</b>, <b>python</b>) apps. 
+		I have over 9 years experience in software development ."	},
 	"theme": {
-		"url": "https://github.com/prakis/stringify.me-theme",
+		"url": "https://github.com/isankha/stringify.me-theme",
 		"background" :"#f98008"
 	}
 }
